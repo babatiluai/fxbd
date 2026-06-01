@@ -1,84 +1,47 @@
-<h1 align="center">Hi, I'm Omm Prakash Biswal</h1>
+<h1 align="center">Hi 👋, I'm Omm Prakash Biswal</h1>
+<h3 align="center">Full Stack Developer | B.Tech CSE @ DRIEMS University | AI & Web Enthusiast</h3>
 
 <p align="center">
-  Full Stack Developer • B.Tech CSE Student • AI & Web Enthusiast
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/omm-prakash-biswal">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/omm-prakash-biswal/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:ommp4164@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" />
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=omm-prakash-biswal&label=Profile%20Views&color=0A66C2&style=flat" />
 </p>
 
 ---
 
-## About Me
-
-I am a Computer Science Engineering student at DRIEMS University, passionate about building practical web applications, exploring AI-powered tools, and learning modern software development.
-
-- Full Stack Development learner
-- Interested in AI, Web Development, and Hardware Projects
-- Building with React, Node.js, Java, and MySQL
-- Currently learning Spring Boot and improving DSA
-- Based in Odisha, India
-
----
-
-## Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,mysql,git,github,vscode,arduino" />
-</p>
+### 👨‍💻 About Me
+- 🎓 B.Tech Computer Science Engineering student at **DRIEMS University**
+- 💻 Full Stack Developer — from pixel-perfect frontends to robust backends
+- 🤖 Passionate about **AI, Web Development & Hardware Projects**
+- 🚀 Building projects with **React, Node.js, Arduino & more**
+- 📱 Creating AI-focused content for **YouTube Shorts, Instagram Reels & TikTok**
+- 📫 Reach me at: **your@email.com**
+- 🌍 Based in **Odisha, India**
 
 ---
 
-## Featured Projects
-
-| Project | Description |
-|---|---|
-| Portfolio Website | Personal portfolio showcasing skills, projects, and experience |
-| Task Manager App | Full stack task management application using React and Node.js |
-| AI Chat Application | AI-powered chatbot built with modern APIs |
-| Arduino Smart Projects | Hardware and IoT projects using Arduino |
-
----
-
-## Current Focus
-
-- Building full stack projects
-- Learning Spring Boot
-- Practicing Data Structures and Algorithms
-- Exploring AI application development
-- Preparing for software development internships
+### 🛠️ Tech Stack
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## GitHub Activity
-
+### 📊 GitHub Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=omm-prakash-biswal&theme=transparent&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omm-prakash-biswal&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api?username=omm-prakash-biswal&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
 
-## 2026 Goals
-
-- Build 5+ complete full stack projects
-- Master Spring Boot fundamentals
-- Solve 300+ DSA problems
-- Contribute to open source
-- Get a software development internship
-
----
-
-<p align="center">
-  <b>Thanks for visiting my profile.</b>
-</p>
+### 🤝 Let's Connect!
+I'm open to **internships, freelance projects, and collaborations.**
+Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/omm-prakash-biswal/) 🚀
